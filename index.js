@@ -328,5 +328,5 @@
 // const substitute = footballer.goToSubstitution;
 
 // attack();
-// score.call(footballer, ';Siiiiii');
+// score.call(footballer, 'Siiiiii');
 // substitute.apply(footballer, ['Paulo Dibala']);
